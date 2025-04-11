@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreehari Shelar</h1>
-<h3 align="center">Trainee AWS Cloud Engineer at Craviata Technologies (Intern) | Ex-Associate Analyst at Deloitte | AWS Cloud Enthusiast | Fast Learner | Open to Cloud Roles</h3>
+<h3 align="center">Trainee AWS Cloud Engineer at Cravita Technologies (Intern) | Ex-Associate Analyst at Deloitte | AWS Cloud Enthusiast | Fast Learner | Open to Cloud Roles</h3>
 
 ---
 
